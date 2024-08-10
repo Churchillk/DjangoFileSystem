@@ -74,7 +74,8 @@ def main(request):
                  # Set the content disposition to attachment, so the file is downloaded
                 response['Content-Disposition'] = f'attachment; filename="{zip_file_path}"'
                 return response
-            
+        
+        #activate
         system(f"rmdir /s {projectName}")
             
 
