@@ -24,8 +24,8 @@ To use this script, you need to have Django installed and ensure that the script
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/django-project-generator.git
-    cd django-project-generator
+    git clone https://github.com/Churchillk/DjangoFileSystem.git
+    cd DjangoFileSystem
     ```
 
 2. **Install requirements:**
